@@ -8,8 +8,6 @@ Meu Card:
 
 [![Pitz007](https://github-readme-stats.vercel.app/api/top-langs/?username=Pitz007&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
